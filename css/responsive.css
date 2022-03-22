@@ -1,0 +1,799 @@
+
+@media (max-width: 575.98px) {
+    /* navbar part start */
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: none;
+    }
+    /* navbar part end */
+    /* banar part start */
+    .banartext h2 {
+        font-size: 30px;
+    }
+    .banartext h1 {
+        font-size: 50px;
+        padding-bottom: 62px;
+    }
+    .banartext h1::after {
+        bottom: 18%;
+        height: 2px;
+    }
+    .banartext a {
+        font-size: 11px;
+        padding: 10px 24px;
+        border: 2px solid #ffffff;
+    }
+    .banar_1 .overley {
+        height: 646px;
+    }
+    .banar_2 .overley {
+        height: 646px;
+    }
+    .banar_3 .overley {
+        height: 646px;
+    }
+    .banar_4 .overley {
+        height: 646px;
+    }
+    .banartext {
+        top: 67%;
+        transform: translate(-50%,-67%);
+    }
+    /* banar part end */
+    /* about part start */
+    #about {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .about_text h4 {
+        font-size: 22px;
+    }
+    .about_text h3 {
+        font-size: 25px;
+        padding-bottom: 45px;
+    }
+    .about_text h3::after {
+        height: 3px;
+        bottom: 20%;
+        transform: translate(-50%,20%);
+    }
+    .about_text p {
+        font-size: 11px;
+        line-height: 18px;
+    }
+    /* about part end */
+    /* number part start */
+    #number .mx-3 {
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
+    }
+    .number_main {
+        padding-bottom: 20px;
+    }
+    /* number part end */
+    /* amazin part start */
+    #Amazing {
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+    .amazing_text h3::after {
+        height: 3px;
+        bottom: -10px;
+    }
+    .amazing_text h3 {
+        padding-bottom: 19px;
+    }
+    #Amazing .row {
+     justify-content: center;
+    }
+    #Amazing .my-5 {
+        margin-top: 0rem!important; 
+        margin-bottom: 0rem!important;
+    }
+    .amagin_main_1 {
+        padding-top: 60px;
+        padding-bottom: 25px;
+    }
+    .amagin_main{
+        padding-bottom: 25px;
+    }
+    .ama_text {
+        padding-left: 10px;
+    }
+    /* amazin part end */
+    /* jon part start */
+    #jon_deo {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .prb {
+        display: block;
+    }
+    .jon_text {
+        width: 205px;
+        margin: auto;
+    }
+    .jon_text p {
+        font-size: 13px;
+        line-height: 24px;
+        text-align: left;
+    }
+    .jon_text h4 {
+        font-size: 20px;
+        padding-left: 60px;
+    }
+    .jon_text h4::after {
+        height: 2px;
+        width: 50px;
+        top: 13px;
+    }
+    .jon_icon {
+        font-size: 35px;
+        height: 100px;
+        width: 100px;
+        line-height: 100px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    /* jon part end */
+    /* amazing part start */
+    #meet {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .meet_text h3 {
+        font-size: 28px;
+        padding-bottom: 50px;
+    }
+    .meet_text h3::after {
+        height: 3px;
+        bottom: 20%;
+    }
+    .meet_text p {
+        font-size: 14px;
+        text-align: justify;
+    }
+    .meet_img .overley ul li {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .meet_text {
+        padding-bottom: 70px;
+    }
+    .meet_icontext {
+        padding-top: 30px;
+    }
+    /* amazing part end */
+    /* some_our_text start */
+    #some_our {
+        padding-bottom: 30px;
+    }
+    .some_our_text {
+        padding-bottom: 70px;
+    }
+    .some_our_text h3 {
+        font-size: 28px;
+        padding-bottom: 50px;
+    }
+    .some_our_text h3::after {
+        height: 3px;
+        bottom: 20%;
+    }
+    .some_our_text p {
+        font-size: 14px;
+        text-align: justify;
+    }
+    /* some_our_text end */
+    /* fotter part start */
+    .mogo p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .mogo ul li:nth-child(1) {
+        font-size: 15px;
+    }
+    .mogo ul li {
+        font-size: 15px;
+        padding-right: 11px;
+    }
+    .mogo input {
+        padding: 7px 0px 7px 4px;
+        font-size: 13px;
+    }
+    .mogo button {
+        padding: 7px 10px;
+        font-size: 13px;
+    }
+    .blogs {
+        padding-top: 30px;
+    }
+    .blogs h4 {
+        padding-bottom: 25px;
+    }
+    /* fotter part end */
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px)  {
+     /* navbar part start */
+     .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: none;
+    }
+    /* navbar part end */
+    /* banar part start */
+    .banartext h2 {
+        font-size: 30px;
+    }
+    .banartext h1 {
+        font-size: 50px;
+        padding-bottom: 62px;
+    }
+    .banartext h1::after {
+        bottom: 18%;
+        height: 2px;
+    }
+    .banartext a {
+        font-size: 11px;
+        padding: 10px 24px;
+        border: 2px solid #ffffff;
+    }
+    .banar_1 .overley {
+        height: 646px;
+    }
+    .banar_2 .overley {
+        height: 646px;
+    }
+    .banar_3 .overley {
+        height: 646px;
+    }
+    .banar_4 .overley {
+        height: 646px;
+    }
+    .banartext {
+        top: 67%;
+        transform: translate(-50%,-67%);
+    }
+    /* banar part end */
+    /* about part start */
+    #about {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .about_icon .overley .icon_text i {
+        font-size: 15px;
+        padding-bottom: 4px;
+    }
+    .about_icon .overley .icon_text h4 {
+        font-size: 15px;
+    }
+    .about_text h4 {
+        font-size: 22px;
+    }
+    .about_text h3 {
+        font-size: 25px;
+        padding-bottom: 45px;
+    }
+    .about_text h3::after {
+        height: 3px;
+        bottom: 20%;
+        transform: translate(-50%,20%);
+    }
+    .about_text p {
+        font-size: 11px;
+        line-height: 18px;
+    }
+    /* about part end */
+    /* number part start */
+    #number .mx-3 {
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
+    }
+    .number_main {
+        padding-bottom: 20px;
+    }
+    /* number part end */
+    /* amazin part start */
+    #Amazing {
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+    .amazing_text h3::after {
+        height: 3px;
+        bottom: -10px;
+    }
+    .amazing_text h3 {
+        padding-bottom: 19px;
+    }
+    #Amazing .row {
+     justify-content: center;
+    }
+    #Amazing .my-5 {
+        margin-top: 0rem!important; 
+        margin-bottom: 0rem!important;
+    }
+    .amagin_main_1 {
+        padding-top: 60px;
+        padding-bottom: 25px;
+    }
+    .amagin_main{
+        padding-bottom: 25px;
+    }
+    .ama_text {
+        padding-left: 10px;
+    }
+    /* amazin part end */
+    /* jon part start */
+    #jon_deo {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .prb {
+        display: block;
+    }
+    .jon_text {
+        width: 347px;
+        margin: auto;
+    }
+    .jon_text p {
+        font-size: 13px;
+        line-height: 24px;
+        text-align: justify;
+    }
+    .jon_text h4 {
+        font-size: 20px;
+        padding-left: 60px;
+    }
+    .jon_text h4::after {
+        height: 2px;
+        width: 50px;
+        top: 13px;
+    }
+    .jon_icon {
+        font-size: 35px;
+        height: 100px;
+        width: 100px;
+        line-height: 95px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    /* jon part end */
+    /* amazing part start */
+    #meet {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .meet_text h3 {
+        font-size: 28px;
+        padding-bottom: 50px;
+    }
+    .meet_text h3::after {
+        height: 3px;
+        bottom: 20%;
+    }
+    .meet_text p {
+        font-size: 14px;
+        text-align: justify;
+    }
+    .meet_img .overley ul li {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .meet_text {
+        padding-bottom: 70px;
+    }
+    .meet_icontext {
+        padding-top: 30px;
+    }
+    /* amazing part end */
+    /* some_our_text start */
+    #some_our {
+        padding-bottom: 30px;
+    }
+    .some_our_text {
+        padding-bottom: 70px;
+    }
+    .some_our_text h3 {
+        font-size: 28px;
+        padding-bottom: 50px;
+    }
+    .some_our_text h3::after {
+        height: 3px;
+        bottom: 20%;
+    }
+    .some_our_text p {
+        font-size: 14px;
+        text-align: justify;
+    }
+    /* some_our_text end */
+    /* fotter part start */
+    .mogo p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .mogo ul li:nth-child(1) {
+        font-size: 15px;
+    }
+    .mogo ul li {
+        font-size: 15px;
+        padding-right: 11px;
+    }
+    .mogo input {
+        padding: 7px 0px 7px 4px;
+        font-size: 13px;
+    }
+    .mogo button {
+        padding: 7px 10px;
+        font-size: 13px;
+    }
+    .blogs {
+        padding-top: 30px;
+    }
+    .blogs h4 {
+        padding-bottom: 25px;
+    }
+    /* fotter part end */
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+      /* navbar part start */
+      .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: none;
+    }
+    /* navbar part end */
+    /* banar part start */
+    .banartext h2 {
+        font-size: 30px;
+    }
+    .banartext h1 {
+        font-size: 50px;
+        padding-bottom: 62px;
+    }
+    .banartext h1::after {
+        bottom: 18%;
+        height: 2px;
+    }
+    .banartext a {
+        font-size: 11px;
+        padding: 10px 24px;
+        border: 2px solid #ffffff;
+    }
+    .banar_1 .overley {
+        height: 646px;
+    }
+    .banar_2 .overley {
+        height: 646px;
+    }
+    .banar_3 .overley {
+        height: 646px;
+    }
+    .banar_4 .overley {
+        height: 646px;
+    }
+    .banartext {
+        top: 67%;
+        transform: translate(-50%,-67%);
+    }
+    /* banar part end */
+    /* about part start */
+    #about {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .about_icon .overley .icon_text i {
+        font-size: 15px;
+        padding-bottom: 4px;
+    }
+    .about_icon .overley .icon_text h4 {
+        font-size: 15px;
+    }
+    .about_text h4 {
+        font-size: 22px;
+    }
+    .about_text h3 {
+        font-size: 25px;
+        padding-bottom: 45px;
+    }
+    .about_text h3::after {
+        height: 3px;
+        bottom: 20%;
+        transform: translate(-50%,20%);
+    }
+    .about_text p {
+        font-size: 11px;
+        line-height: 18px;
+    }
+    /* about part end */
+    /* number part start */
+    #number .mx-3 {
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
+    }
+    .number_main {
+        padding-bottom: 20px;
+    }
+    /* number part end */
+    /* amazin part start */
+    #Amazing {
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+    .amazing_text h3::after {
+        height: 3px;
+        bottom: -10px;
+    }
+    .amazing_text h3 {
+        padding-bottom: 19px;
+    }
+    #Amazing .row {
+     justify-content: center;
+    }
+    #Amazing .my-5 {
+        margin-top: 0rem!important; 
+        margin-bottom: 0rem!important;
+    }
+    .amagin_main_1 {
+        padding-top: 60px;
+        padding-bottom: 25px;
+    }
+    .amagin_main{
+        padding-bottom: 25px;
+    }
+    .ama_text {
+        padding-left: 0px;
+    }
+    .ama_text p {
+        width: 400px;
+    }
+    .ama_icon {
+        text-align: center;
+    }
+    /* amazin part end */
+    /* jon part start */
+    #jon_deo {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .prb {
+        display: block;
+    }
+    .jon_text {
+        width: 347px;
+        margin: auto;
+    }
+    .jon_text p {
+        font-size: 16px;
+        line-height: 24px;
+        text-align: justify;
+    }
+    .jon_text h4 {
+        font-size: 20px;
+        padding-left: 60px;
+    }
+    .jon_text h4::after {
+        height: 2px;
+        width: 50px;
+        top: 13px;
+    }
+    .jon_icon {
+        font-size: 40px;
+        height: 120px;
+        width: 120px;
+        line-height: 110px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    /* jon part end */
+    /* amazing part start */
+    #meet {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .meet_text h3 {
+        font-size: 28px;
+        padding-bottom: 50px;
+    }
+    .meet_text h3::after {
+        height: 3px;
+        bottom: 20%;
+    }
+    .meet_text p {
+        font-size: 14px;
+        text-align: justify;
+    }
+    .meet_img .overley ul li {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .meet_text {
+        padding-bottom: 70px;
+    }
+    .meet_icontext {
+        padding-top: 30px;
+    }
+    /* amazing part end */
+    /* some_our_text start */
+    #some_our {
+        padding-bottom: 30px;
+    }
+    .some_our_text {
+        padding-bottom: 70px;
+    }
+    .some_our_text h3 {
+        font-size: 28px;
+        padding-bottom: 50px;
+    }
+    .some_our_text h3::after {
+        height: 3px;
+        bottom: 20%;
+    }
+    .some_our_text p {
+        font-size: 14px;
+        text-align: justify;
+    }
+    /* some_our_text end */
+    /* fotter part start */
+    .mogo p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .mogo ul li:nth-child(1) {
+        font-size: 18px;
+    }
+    .mogo ul li {
+        font-size: 18px;
+        padding-right: 20px;
+    }
+    .mogo input {
+        padding: 10px 10px 10px 10px;
+        font-size: 15px;
+    }
+    .mogo button {
+        padding: 11px 13px;
+        font-size: 13px;
+    }
+    .blogs {
+        padding-top: 30px;
+    }
+    .blogs h4 {
+        padding-bottom: 25px;
+    }
+    .blogs_text h5 {
+        font-size: 16px;
+    }
+    .blogs_text p {
+        font-size: 13px;
+    }
+    /* fotter part end */
+}
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* banar part start */
+    .banartext h1 {
+        font-size: 120px;
+    }
+    .banartext h2 {
+        font-size: 60px;
+    }
+    /* banar part end */
+    /* amagin part start */
+    .ama_text {
+        margin-left: 15px;
+    }
+    /* amagin part end */
+    /* jon part start */
+    .prb {
+        align-items: center;
+    }
+    .jon_text {
+        width: 563px;
+    }
+    /* jon part end */
+    /* meet part start */
+    #meet {
+        padding-top: 70px;
+    }
+    /* meet part end */
+    /* some part start */
+    #some_our {
+        padding-bottom: 70px;
+    }
+    /* some part end */
+    /* fotter part start */
+    .mogo p {
+        font-size: 14px;
+        line-height: 22px;
+        width: 290px;
+        text-align: justify;
+    }
+    .mogo ul li:nth-child(1) {
+        font-size: 15px;
+        padding-right: 15px;
+    }
+    .mogo ul li {
+        font-size: 16px;
+        padding-right: 10px;
+    }
+    .mogo input {
+        padding: 10px 0px 10px 5px;
+        font-size: 13px;
+    }
+    .mogo button {
+        padding: 10px 10px;
+        font-size: 13px;
+    }
+    /* fotter part end */
+}
+
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+        /* banar part start */
+        .banartext h1 {
+            font-size: 120px;
+        }
+        .banartext h2 {
+            font-size: 60px;
+        }
+        /* banar part end */
+            /* jon part start */
+    .prb {
+        align-items: center;
+    }
+    .jon_text {
+        width: 720px;
+    }
+    /* jon part end */
+     /* fotter part start */
+     .mogo p {
+        font-size: 15px;
+        line-height: 22px;
+        width: 325px;
+        text-align: justify;
+    }
+    .mogo ul li:nth-child(1) {
+        font-size: 18px;
+        padding-right: 20px;
+    }
+    .mogo ul li {
+        font-size: 18px;
+        padding-right: 10px;
+    }
+    .mogo input {
+        padding: 10px 15px 10px 15px;
+        font-size: 14px;
+    }
+    .mogo button {
+        padding: 10px 13px;
+        font-size: 14px;
+    }
+    /* fotter part end */
+}
+@media (min-width: 1400px){
+    /* fotter part start */
+    .mogo input {
+        padding: 10px 15px 10px 15px;
+        font-size: 14px;
+    }
+    .mogo button {
+        padding: 10px 13px;
+        font-size: 14px;
+    }
+    /* fotter part end */
+}
